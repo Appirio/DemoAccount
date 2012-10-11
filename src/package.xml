@@ -3,6 +3,7 @@
     <types>
         <members>HTTPClient</members>
         <members>Another</members>
+        <members>More</members>
         <name>ApexClass</name>
     </types>
     <version>26.0</version>
