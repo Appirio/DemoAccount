@@ -4,5 +4,5 @@
         <members>HTTPClient</members>
         <name>ApexClass</name>
     </types>
-    <version>24.0</version>
+    <version>25.0</version>
 </Package>
