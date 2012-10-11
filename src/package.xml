@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>HTTPClient</members>
+        <members>Another</members>
         <name>ApexClass</name>
     </types>
     <version>24.0</version>
